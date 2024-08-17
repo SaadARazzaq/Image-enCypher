@@ -4,6 +4,10 @@
 
 The Image Cypher application allows users to encrypt images using a simple Caesar cipher algorithm. This tool can be used for basic image encryption and serves as an example of image manipulation with Streamlit.
 
+## Output 📸
+
+<img width="526" alt="Screenshot 2024-08-17 at 06 18 57" src="https://github.com/user-attachments/assets/3cedec52-0b54-4961-90d5-1ecb204e4b4b">
+
 ## Features ✨
 
 - Upload an image in JPG, JPEG, PNG, or GIF format.
